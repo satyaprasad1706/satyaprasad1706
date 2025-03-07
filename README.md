@@ -13,7 +13,7 @@ I am a passionate and dedicated **BTech student in Information Technology** at t
 
 
 ## 🛠️ Skills & Technologies  
-🔹 **Programming Languages:** Java, Python, C  
+🔹 **Programming Languages:** Java, Python  
 🔹 **Web Development:** HTML, CSS, JavaScript, React.js  
 🔹 **Problem Solving:** Competitive Programming, Logical Thinking  
 
