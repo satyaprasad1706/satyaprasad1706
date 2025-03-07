@@ -24,8 +24,8 @@ I am a passionate and dedicated **BTech student in Information Technology** at t
 I’m always open to collaborations, discussions, and knowledge-sharing. Feel free to reach out to me!  
 
 📧 **Email:** [satyaprasad1706@gmail.com](mailto:satyaprasad1706@gmail.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/vakkalagadda))  
-📸 **Instagram:** [Your Instagram Profile]([your-instagram-url](https://www.instagram.com/satya_prasad_v/profilecard/?igsh=MXhxeWIzbWM3eXU5MQ==))  
-🐦 **X (Twitter):** [Your X Profile]([your-x-profile-url](https://x.com/satyaprasad1706?t=4_xnLFaJ-FHMH3sCccMzhQ&s=09))  
+🔗 **LinkedIn:** ([your-linkedin-url](https://www.linkedin.com/in/vakkalagadda))  
+📸 **Instagram:** ([your-instagram-url](https://www.instagram.com/satya_prasad_v/profilecard/?igsh=MXhxeWIzbWM3eXU5MQ==))  
+🐦 **X (Twitter):** ([your-x-profile-url](https://x.com/satyaprasad1706?t=4_xnLFaJ-FHMH3sCccMzhQ&s=09))  
 
 Looking forward to connecting with like-minded individuals in the tech community! 🚀  
