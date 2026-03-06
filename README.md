@@ -1,30 +1,3 @@
-👋 Hello, I’m Vakkalagadda Hima Venkata Satya Prasad!
-
-🚀 About Me
-I am a motivated BTech student in Information Technology at the Institute of Aeronautical Engineering with a strong interest in cybersecurity, problem-solving, and emerging technologies. I enjoy building practical skills through hands-on projects, coding challenges, and continuous learning, and I am always eager to explore new areas that expand my technical expertise.
-
-🎯 Goals & Interests
-🔐 Aspiring Cybersecurity Analyst — Passionate about cybersecurity, ethical hacking, and network security, with the goal of identifying vulnerabilities and contributing to building secure systems.
-💡 Technology Exploration — Curious about new tools, frameworks, and innovations that enhance development and security practices.
-🧠 Analytical Thinking — Enjoy solving complex problems and improving logical reasoning through coding and technical challenges.
-📚 Continuous Growth — Committed to staying updated with evolving trends in software development, cybersecurity, and IT.
-
-🛠️ Skills & Technologies
-🔹 Programming: Java, Python
-🔹 Web Development: HTML, CSS, JavaScript, React.js
-🔹 Databases: MySQL, Database Design & Querying
-🔹 Core Strengths: Problem Solving, Logical Thinking, Competitive Programming
-
-📫 Let’s Connect
-I am open to collaborations, learning opportunities, and meaningful discussions in technology and cybersecurity.
-
-📧 Email: [satyaprasad1706@gmail.com](mailto:satyaprasad1706@gmail.com)
-🔗 LinkedIn: (Your LinkedIn URL)
-📸 Instagram: (Your Instagram URL)
-🐦 X (Twitter): (Your X profile URL)
-
-Looking forward to connecting and growing with the tech community!
-
 # 👋 Hello, I'm Vakkalagadda Hima Venkata Satya Prasad!  
 
 ## 🚀 About Me  
