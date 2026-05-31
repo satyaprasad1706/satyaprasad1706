@@ -1,30 +1,86 @@
-# 👋 Hello, I'm Vakkalagadda Hima Venkata Satya Prasad!  
+# Hi there 👋
 
-## 🚀 About Me  
-I am a passionate and dedicated **BTech student in Information Technology** at the **Institute of Aeronautical Engineering**. My journey in technology is driven by my enthusiasm for **problem-solving, logical reasoning, and cybersecurity**. I constantly strive to expand my knowledge and stay updated with the latest advancements in the field.  
+I'm **Vakkalagadda Hima Venkata Satya Prasad**
 
-### 🎯 My Goals & Interests  
-- 🔐 **Aspiring Cybersecurity Analyst** – I am deeply interested in **cybersecurity, ethical hacking, and network security**. I aim to contribute to the security domain by identifying vulnerabilities and developing robust solutions.  
-- 💡 **Tech Enthusiast** – I love exploring new technologies, frameworks, and tools that can enhance my problem-solving capabilities.  
-- 🧠 **Logical Reasoning & Problem-Solving** – I enjoy tackling challenging problems and sharpening my analytical skills through **competitive programming and coding challenges**.  
-- 📚 **Continuous Learning** – The tech world is ever-evolving, and I am committed to learning and adapting to new trends in **programming, security, and software development**.  
+Information Technology student at **Institute of Aeronautical Engineering (IARE), Hyderabad**.
 
+I enjoy building scalable web applications, exploring cybersecurity concepts, solving algorithmic problems, and working with modern technologies. Feel free to connect with me!
 
+---
 
-## 🛠️ Skills & Technologies  
-🔹 **Programming Languages:** Java, Python  
-🔹 **Web Development:** HTML, CSS, JavaScript, React.js  
-🔹 **Databases:** MySQL, Database Design & Querying
-🔹 **Core Strengths:** Problem Solving, Logical Thinking, Competitive Programming
+## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vakkalagadda)
 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:satyaprasad1706@gmail.com)
 
-## 📫 Let's Connect!  
-I’m always open to collaborations, discussions, and knowledge-sharing. Feel free to reach out to me!  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/satyaprasad1706)
 
-📧 **Email:** [satyaprasad1706@gmail.com](mailto:satyaprasad1706@gmail.com)  
-🔗 **LinkedIn:** ([My-linkedin-url](https://www.linkedin.com/in/vakkalagadda))  
-📸 **Instagram:** ([My-instagram-url](https://www.instagram.com/satya_prasad_v/profilecard/?igsh=MXhxeWIzbWM3eXU5MQ==))  
-🐦 **X (Twitter):** ([My-x-profile-url](https://x.com/satyaprasad1706?t=4_xnLFaJ-FHMH3sCccMzhQ&s=09))  
+---
 
-Looking forward to connecting with like-minded individuals in the tech community! 🚀  
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📚 Core Interests
+
+* Data Structures & Algorithms
+* Web Development
+* Cybersecurity
+* Cloud Computing
+* Software Engineering
+* System Design
+
+---
+
+## 🚀 Currently
+
+* 📖 Learning Advanced React & Backend Development
+* 🔐 Exploring Cybersecurity and Secure Application Design
+* 💻 Solving DSA Problems on LeetCode, CodeChef & GeeksforGeeks
+* ☁️ Learning Cloud Technologies and Firebase Ecosystem
+
+---
+
+## 📈 Coding Profiles
+
+* 💡 LeetCode: 50+ Problems Solved
+* 💡 CodeChef: 60+ Problems Solved
+* 💡 GeeksforGeeks: 40+ Problems Solved
+* 💡 HackerRank: 2 Certifications
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled **Software Engineer and Cybersecurity Professional**, building secure, scalable, and impactful technology solutions.
+
+---
+
+⭐ Thanks for visiting my profile!
